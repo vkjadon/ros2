@@ -1,0 +1,15 @@
+Robot Operating System (ROS) 2 is a set of software libraries and tools for building and programming robots. It is a popular open-source framework for developing robotic applications. ROS 2 is a significant improvement over the original ROS, which was first released in 2007. It offers improved performance, security, and scalability compared to ROS 1.
+
+ROS 2 provides a variety of features and tools to help developers create robotic applications, including:
+
+A communication infrastructure that allows multiple nodes to exchange messages and share information
+A wide range of libraries and tools for tasks such as perception, navigation, and control
+Support for a variety of programming languages, including C++, Python, and Java
+Integration with hardware platforms, including robots, simulators, and robotic components
+A growing ecosystem of packages and tools contributed by the robotics community
+One of the major goals of ROS 2 is to provide a more secure and reliable communication infrastructure for robotic systems. To achieve this, ROS 2 uses the Data Distribution Service (DDS) standard for inter-process communication, which provides improved security and reliability compared to the original ROS.
+
+Overall, ROS 2 is a powerful tool for developing robotic applications and has been adopted by many researchers, developers, and companies in the robotics industry.
+
+
+
