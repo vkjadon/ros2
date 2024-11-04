@@ -1,0 +1,9 @@
+# Goal definition - Cruise Speed
+int64 cruise_speed
+int64 cruise_step
+---
+# Result definition
+int64 final_speed
+---
+#Feedback definition
+int64 current_speed
